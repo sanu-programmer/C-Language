@@ -8,5 +8,5 @@ int main(){
     scanf("%d",&y);
     int sum = x + y;
     printf(" the value of sum is : %d",sum);
-    return 0;
+    // return 0;
 }
